@@ -69,7 +69,7 @@ To design and develop a responsive, visually appealing, and conversion-driven we
 
 ---
 
-## ⚠Project Risks
+## Project Risks
 
 1. **Scope Creep**
 2. **Vendor Delays**
